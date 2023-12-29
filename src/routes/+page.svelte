@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Reading List</title> <!--Should be changed to something more fitting later.-->
+	<meta name="description" content="Get book recommendations from your favorite streamer." /> <!--Should be changed to something more fitting later.-->
+</svelte:head>
+
 <p class="text-center font-semibold text-2xl">
 	Welcome to the first commit of <a
 		target="_blank"
